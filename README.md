@@ -1,9 +1,11 @@
 <img width="950" height="447" alt="Screenshot 2026-06-28 102254" src="https://github.com/user-attachments/assets/6d1cf09a-d94f-41ca-9cf4-8587460195ed" />
-
 # Platformer
 
 A small side-scrolling platformer made with Python and Pygame. The game includes procedurally generated platforms, coins, enemies, spikes, clouds, shadows, a daylight cycle, and optional weather.
 
+<img width="959" height="446" alt="Screenshot 2026-06-28 102409" src="https://github.com/user-attachments/assets/c7ab4c3b-9cd3-4a53-93bf-701529d33fdb" />
+<img width="959" height="449" alt="Screenshot 2026-06-28 102320" src="https://github.com/user-attachments/assets/c0a94417-7f88-48ea-abd3-7d625dd02455" />
+<img width="959" height="449" alt="Screenshot 2026-06-28 102453" src="https://github.com/user-attachments/assets/0632b730-4fae-4432-85fd-d6969958f0b0" />
 ## Features
 
 - Side-scrolling movement with camera follow
@@ -54,6 +56,7 @@ python3 main.py
 - `D` / `Right Arrow`: Move right
 - `W` / `Up Arrow`: Jump
 
+<img width="959" height="449" alt="Screenshot 2026-06-28 102320" src="https://github.com/user-attachments/assets/0d859bd9-ae07-43dd-9322-553515d3677f" />
 ## Settings
 
 The settings menu lets you turn these systems on or off:
