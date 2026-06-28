@@ -1,3 +1,5 @@
+<img width="950" height="447" alt="Screenshot 2026-06-28 102254" src="https://github.com/user-attachments/assets/6d1cf09a-d94f-41ca-9cf4-8587460195ed" />
+
 # Platformer
 
 A small side-scrolling platformer made with Python and Pygame. The game includes procedurally generated platforms, coins, enemies, spikes, clouds, shadows, a daylight cycle, and optional weather.
